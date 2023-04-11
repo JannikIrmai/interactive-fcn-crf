@@ -46,4 +46,4 @@ The adjustment can be undone by clicking on the variable.
 
 [1] Anjany Sekuboyina, Malek E Husseini, Amirhossein Bayat, Maximilian Loeffler, Hans Liebl, et al., 
 "Verse: A vertebrae labelling and segmentation benchmark for multi-detector ct images," 
-MedIA, vol. 73, pp. 102166, 2021.
+MedIA, vol. 73, pp. 102--166, 2021.
