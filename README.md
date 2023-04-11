@@ -3,7 +3,7 @@ This repository contains python code that combines a fully convolutional neural 
 
 # Demo
 
-![demo](https://github.com/JannikIrmai/interactive-fcn-crf/blob/main/demo-video.mp4)
+![demo](https://github.com/JannikIrmai/interactive-fcn-crf/blob/main/demo-video.gif)
 
 
 **UNDER CONSTRUCTION!**
