@@ -18,13 +18,13 @@ Adjusting the location of one vertebra (L4) adjusts the predicted locations of a
 
 # Usage
 
-To install the interactive gaussian crf module, clone this repository and execture
+To install the interactive gaussian crf module, clone this repository and execute
 
 ```
 pip install interactive-gaussian-crf/
 ```
 
-The usage of the crf module is demonstrated in two examples in the examples directory.
+The usage of the crf module is demonstrated in two examples in the examples directory:
 ```
 cd examples
 python toy_example.py
