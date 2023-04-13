@@ -51,6 +51,10 @@ The used datasets are publicly available here: https://github.com/anjany/verse.
 
 # References
 
+[1] Anjany Sekuboyina, Jannik Irmai, Bjoern Andres, Suprosanna Shit, Bjoern Menze, 
+"Pushing the limits of an FCN and a CRF towards near-ideal vertebrae labelling,"
+IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
+
 [2] Anjany Sekuboyina, Malek E Husseini, Amirhossein Bayat, Maximilian Loeffler, Hans Liebl, et al., 
 "Verse: A vertebrae labelling and segmentation benchmark for multi-detector ct images," 
 MedIA, vol. 73, pp. 102-166, 2021.
