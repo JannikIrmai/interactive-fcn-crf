@@ -29,7 +29,7 @@ cd examples
 python toy_crf_example.py
 python spine_crf_example.py
 ```
-More examples can be found in ``interactive_gaussian_crf/tests/test_gaussian_crf.py`` file.
+More examples can be found in ``interactive_gaussian_crf/tests/test_gaussian_crf.py``.
 
 
 Once the matplotlib window is created the following interactive operations are supported:
