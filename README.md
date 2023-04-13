@@ -27,8 +27,8 @@ pip install interactive-gaussian-crf/
 The usage of the crf module is demonstrated in two examples in the examples directory:
 ```
 cd examples
-python toy_example.py
-python spine_example.py
+python toy_crf_example.py
+python spine_crf_example.py
 ```
 
 Once the matplotlib window is created the following interactive operations are supported:
