@@ -45,9 +45,14 @@ The adjustment can be undone by clicking on the variable.
 # HRNet3D
 
 The pytorch implementation of the HRNet3D is in the hr_net_3d directory.
-How to use the HRNet3D for vertebrae localization in CT images of the human spine is demonstrated in 
+The usage of the HRNet3D for vertebrae localization in CT images of the human spine is demonstrated in 
 the vertebrae_labeling directory.
 The used datasets are publicly available here: https://github.com/anjany/verse.
+
+The full FCN-CRF inference pipeline is implemented in ``vertebrae_labeling/main.py``.
+To run the inference a pretrained model and the parameters of the spine prior model need to be loaded.
+A pretrained model and the spine prior model for the CSI data can be downloaded from here: TODO!
+
 
 # References
 
