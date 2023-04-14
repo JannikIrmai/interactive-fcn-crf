@@ -33,12 +33,12 @@ class TestHrNet3D(unittest.TestCase):
     def test_load(self):
         params["labels"] = CSI_LABELS
         runner = Runner({}, params)
-        runner.load_model("models/csi2014_baseline_3d_v2_hrnet_res2mm_250Epoch")
+        runner.load_model("models/hrnet_3d_csi_2mm")
 
     def test_prediction(self):
         params["labels"] = CSI_LABELS
         runner = Runner({}, params)
-        runner.load_model("models/csi2014_baseline_3d_v2_hrnet_res2mm_250Epoch")
+        runner.load_model("models/hrnet_3d_csi_2mm")
 
         img_id = 4517454
         img_data = np.load(f"data/csi/eval/{img_id}_2mm_3d.npz")

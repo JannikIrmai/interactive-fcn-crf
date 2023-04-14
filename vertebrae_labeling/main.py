@@ -92,7 +92,7 @@ def main():
         'labels': CSI_LABELS
     }
     runner = Runner({}, params)
-    runner.load_model("models/csi2014_baseline_3d_v2_hrnet_res2mm_250Epoch")
+    runner.load_model("models/hrnet_3d_csi_2mm")
 
     # load the CRF
     graph = nx.Graph([(CSI_LABELS[i], CSI_LABELS[i + 1]) for i in range(len(CSI_LABELS) - 1)])
