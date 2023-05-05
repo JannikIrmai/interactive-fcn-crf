@@ -132,6 +132,5 @@ dmypy.json
 .idea/
 
 vertebrae_labeling/data
-vertebrae_labeling/models
 vertebrae_labeling/runs
 hr_net_3d/tests/runs

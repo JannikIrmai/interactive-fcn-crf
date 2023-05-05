@@ -51,7 +51,7 @@ The used datasets are publicly available here: https://github.com/anjany/verse.
 
 The full FCN-CRF inference pipeline is implemented in ``vertebrae_labeling/main.py``.
 To run the inference a pretrained model and the parameters of the spine prior model need to be loaded.
-A pretrained model and the spine prior model for the CSI data can be downloaded from here: TODO!
+A pretrained model and the spine prior model for the CSI data can be found in ``vertebrae_labeling/models``.
 
 
 # References
